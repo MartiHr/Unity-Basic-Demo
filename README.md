@@ -1,4 +1,4 @@
-# [Essentials-Project](https://play.unity.com/en/games/3e7d2114-cb9d-4f7f-8779-79d20dca574c/webgl-builds)
+# [Unity-Basic-Demo](https://play.unity.com/en/games/3e7d2114-cb9d-4f7f-8779-79d20dca574c/webgl-builds)
 
 ## Overview  
 Essentials-Project is a demonstration of fundamental Unity functionalities, showcasing core mechanics such as movement, physics interactions, UI elements, and basic game logic.  
